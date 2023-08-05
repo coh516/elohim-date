@@ -6,7 +6,7 @@ const elohimDate = () => {
 
     const sunMonth = (month) => { 
         const ny = new Date(newYearDay); 
-        ny.setDate(ny.getDate() +  73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 5 ? 37 : 36));
+        ny.setDate(ny.getDate() +  73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 4 ? 37 : 36));
         return ny;
     };
 
