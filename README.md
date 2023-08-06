@@ -1,5 +1,5 @@
 # elohim-date
-convert the date to Elohim date as per the vegan oath, with leap year every 4 years
+convert the date to Elohim date as per the vegan oath, with leap year and leap week every 4 years
 
 dates are based on sun angles
 
