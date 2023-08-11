@@ -9,7 +9,7 @@ const elohimDate = () => {
     }
 
     const daysInMonth = (month) => {
-        return daysSinceMonth(5) - daysSinceMonth(4);
+        return daysSinceMonth(month) - daysSinceMonth(month-1);
     }
 
     const sunMonth = (month) => { 
@@ -27,7 +27,7 @@ const elohimDate = () => {
     const sunWeek = (date) => { 
         const ny = new Date(newYearDay); 
         const week = (date- ny.setDate(ny.getDate()) )/8.64e8; 
-        return { week: Math.floor(week), day: Math.floor((week-Math.floor(week))*10), dbg: week }
+        return { week: Math.ceil(week), day: Math.ceil((week-Math.floor(week))*10), dbg: week }
     };
 
     const sunDate = () => { 

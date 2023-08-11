@@ -14,6 +14,8 @@ weeks are based on the aproximation of 10 day weeks as segments of a 4 week mont
 
 biblical leap years added 2 days every 8 years to avoid injuries from breaking the vegan oath with 2 11 day leap weeks (genesis 29:27)
 
+Days of week are 1->10, however day of month begins on day 0
+
 
 ## Todo: 
     - leep weeks
