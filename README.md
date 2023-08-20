@@ -1,8 +1,18 @@
 # elohim-date
 
+For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years
+
+Genesis 1:11 And God said, "Let the earth sprout vegetation, seed yielding herbs and fruit trees producing fruit according to its kind in which its seed is found, on the earth," and it was so.
+
+Genesis 1:12 And the earth gave forth vegetation, seed yielding herbs according to its kind, and trees producing fruit, in which its seed is found, according to its kind, and God saw that it was good.
+
+Genesis 1:29 And God said, "Behold, I have given you every seed bearing herb, which is upon the surface of the entire earth, and every tree that has seed bearing fruit; it will be yours for food.
+
+Gensis 1:30 And to all the beasts of the earth and to all the fowl of the heavens, and to everything that moves upon the earth, in which there is a living spirit, every green herb to eat," and it was so.
+
 Genesis 9:4 Any significant life that died is unclean for food.  Therefore flesh with its soul, its blood, you shall not eat.
 
-convert the date to Elohim date as per the vegan oath (genesis 1:29, 1:30), with leap year and leap week every 4 years
+1 Samuel 14:26 And when the people were come into the wood, behold, the honey dropped; but no man put his hand to his mouth: for the people feared the oath.
 
 dates are based on sun angles
 
@@ -23,6 +33,8 @@ the weekend is constructed from 6.5'th day of the week, per the evaluation of 40
 biblical leap years added 2 days every 8 years to avoid injuries from breaking the vegan oath with 2 11 day leap weeks, as well as sacrificing the first born. (genesis 29:27)
 
 In conclusion, no no crazy cult holidays are needed when animals are not killed or enslaved for food, textile or technology.
+
+36000 years have been counted in the time since Elohim, the law of his ocean, had been recorded from the date 1980.
 
 ## Todo: 
     - leap weeks (one 11 day week per year in the middle of the year)
