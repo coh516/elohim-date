@@ -37,7 +37,7 @@ In conclusion, no no crazy cult holidays are needed when animals are not killed 
 36000 years have been counted in the time since Elohim, the law of his ocean, had been recorded from the date 1980.
 
 ## Todo: 
-    - leap weeks (one 11 day week per year in the middle of the year)
+    - leap weeks (year starts a day early)
     - quadrature segment 
     - web component output
     - unit tests
