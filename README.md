@@ -38,7 +38,7 @@ In conclusion, no no crazy cult holidays are needed when animals are not killed 
 
 The second sentence of Beretset starts on year 24000. In the base 24 hebrew encoding, the book itself begins by referencing Mexico from Portugal as the King of Peru sails west to Hawaii. The second line of text, the king makes his way to the land of the Tai Chi and Karate, where martial law is placed upon the vegan oath to enforce the law of Elohim. This is where time gets counted, roughly 2,000 years since he discovered how to build a ship out of bricks made from vats of shit and helium, from line 1.  
 
-This encoding and translation was most likely kept secret because of Portuguese military non disclosure.  Although a bit obfuscated, the english translation states that it is illegal to eat animals.  It is only by voluntary acts of animal consumption that by social compact of the Rainbow Covenant of Noah that the particular animal is livestock and allows themselves to be raped and molested under the dominion of Canaanite hereditary from the God of Abraham onward.
+This encoding and translation was most likely kept secret because of Portuguese military non disclosure.  Although a bit obfuscated, the english translation states that it is illegal to eat animals, and not allowed under the law of the universe which grants us life.  It is only by voluntary acts of animal consumption that by social compact of the Rainbow Covenant of Noah that the particular animal is livestock and allows themselves to be raped and molested under the dominion of Canaanite hereditary extending to the lord god, a politician, of Abraham onward.
 
 ## Todo: 
     - leap weeks (year starts a day early)
