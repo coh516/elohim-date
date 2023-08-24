@@ -1,6 +1,9 @@
 const elohimDate = () => {
     const fullYear = (new Date).getFullYear();
     const isLeapYear = ((fullYear % 4 == 0) && (fullYear % 100 != 0)) || (fullYear % 400 == 0);
+    /*
+    * @todo: first day of month begins on the 14'th day of January and extends its week to 11 days
+    */
     (new Date).getMonth() === 1 && (new Date).getDate() < 15  && fullYear--;
     const newYearDay = `${fullYear}-01-15`;
 
