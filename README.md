@@ -45,3 +45,5 @@ This encoding and translation was most likely kept secret because of Portuguese 
     - quadrature segment 
     - web component output
     - unit tests
+    - build GUI calendar 
+    - ical integration
