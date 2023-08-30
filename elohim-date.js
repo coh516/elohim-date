@@ -8,7 +8,7 @@ const elohimDate = () => {
     const newYearDay = `${fullYear}-01-15`;
 
     const daysSinceMonth = (month) => {
-        return 73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 4 ? 37 : 36)
+        return 73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 9 ? 37 : 36)
     }
 
     const daysInMonth = (month) => {
@@ -17,7 +17,7 @@ const elohimDate = () => {
 
     const sunMonth = (month) => { 
         const ny = new Date(newYearDay); 
-        ny.setDate(ny.getDate() +  73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 4 ? 37 : 36));
+        ny.setDate(ny.getDate() +  73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 9 ? 37 : 36));
         return ny;
     };
 
@@ -30,7 +30,8 @@ const elohimDate = () => {
     const sunWeek = (date) => { 
         const ny = new Date(newYearDay); 
         const week = (date- ny.setDate(ny.getDate()) )/8.64e8; 
-        return { week: Math.ceil(week), day: Math.ceil((week-Math.floor(week))*10), dbg: week }
+        const day = Math.ceil((week-Math.floor(week))*10);
+        return { week: Math.ceil(week)-((isLeapYear && month === 9)?1:0), day: day+((isLeapYear && month === 9)?1:0),  dbg: week }
     };
 
     const sunDate = () => { 

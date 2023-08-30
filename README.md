@@ -1,6 +1,6 @@
 # elohim-date
 
-For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years
+For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
 
 Genesis 1:11 And God said, "Let the earth sprout vegetation, seed yielding herbs and fruit trees producing fruit according to its kind in which its seed is found, on the earth," and it was so.
 
@@ -41,7 +41,6 @@ The second sentence of Beretset starts on year 24000. In the base 24 hebrew enco
 This encoding and translation was most likely kept secret because of Portuguese military non disclosure.  Although a bit obfuscated, the english translation states that it is illegal to eat animals and not allowed under the law of the universe which grants us life.  It is only by voluntary acts of animal consumption that by social compact of the Rainbow Covenant of Noah that the particular animal is livestock and allows themselves to be raped and molested under the dominion of Canaanite hereditary extending to the lord god, a politician, of Abraham onward.
 
 ## Todo: 
-    - leap weeks (year starts a day early)
     - quadrature segment 
     - web component output
     - unit tests
