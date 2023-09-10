@@ -5,7 +5,7 @@ const elohimDate = () => {
     * @todo: first day of month begins on the 14'th day of January and extends its week to 11 days
     */
     (new Date).getMonth() === 1 && (new Date).getDate() < 15  && fullYear--;
-    const newYearDay = `${fullYear}-01-15`;
+    const newYearDay = `01-15-${fullYear}`;
 
     const daysSinceMonth = (month) => {
         return 73 * Math.floor(month/2) + (month % 2)*(isLeapYear && month === 9 ? 37 : 36)
@@ -45,4 +45,4 @@ const elohimDate = () => {
     return {sunMonth, sunWeek, sunDate}
 }
 
-console.log(elohimDate().sunDate());
+console.log(elohimDate().sunMonth(0));
