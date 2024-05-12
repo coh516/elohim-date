@@ -31,9 +31,7 @@ week number and days of week begin on day 1, and end on day 10, however the mont
 
 ## Serving Elohim Date from iCal
 
-This can now serve the Elohim date from iCal. This can be accessed at the root URL ("/") of the server. 
-
-To do this, follow these steps:
+To get the elohim date sent to your ical:
 
 1. Start the node server with the command `node server.js` in your terminal, assuming you're in the project's root directory.
 2. Once the server is running, open a web browser and navigate to `http://localhost:3100/`
