@@ -44,5 +44,5 @@ const elohimDate = () => {
 
     return {sunMonth, sunWeek, sunDate}
 }
-
+module.exports = { elohimDate };
 console.log(elohimDate().sunMonth(0));
