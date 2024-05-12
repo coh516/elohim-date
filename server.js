@@ -3,12 +3,34 @@ const app = express();
 const { elohimDate } = require('./elohim-date');
 const ics = require('ics');
 const port = 3100;
+const os = require('os');
 
+// Get the network interfaces
+const networkInterfaces = os.networkInterfaces();
+
+const getIp =()=> {
+    // Get the first non-internal IPv4 address
+    let ipAddress = '';
+    for (let name in networkInterfaces) {
+        for (let interface of networkInterfaces[name]) {
+            if (interface.family === 'IPv4' && !interface.internal) {
+                ipAddress = interface.address;
+                break;
+            }
+        }
+        if (ipAddress) {
+            break;
+        }
+    }
+        return ipAddress; // return the ipAddress
+
+}
 app.get('/', (req, res) => {
     let result = `
     <html>
         <body>
             <h1>Sun Month Values</h1>
+            ${getIp()}
             <a href="/sunMonth" download="sunMonth.ics">
                 <button>Download Calendar</button>
             </a>
