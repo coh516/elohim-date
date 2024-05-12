@@ -28,21 +28,20 @@ weeks are based on the approximation of 10 day weeks as segments of a 4 week mon
 
 week number and days of week begin on day 1, and end on day 10, however the month and day of month begins on day 0.
 
-the weekend is constructed from 6.5'th day of the week, per the evaluation of 40/36.525, taking from the last quadrature.  It is so because 40 is an approximation of a month, and 400 is an approximation of the year, per the motif of 40 days and 40 nights. 
 
-biblical leap years added 2 days every 8 years to avoid injuries from breaking the vegan oath with 2 11 day leap weeks, as well as sacrificing the first born. (genesis 29:27)
+## Serving Elohim Date from iCal
 
-In conclusion, no no crazy cult holidays are needed when animals are not killed or enslaved for food, textile or technology.
+This can now serve the Elohim date from iCal. This can be accessed at the root URL ("/") of the server. 
 
-36000 years have been counted in the time since Elohim, the law of his ocean, had been recorded from the date 1980.
+To do this, follow these steps:
 
-The second sentence of Beretset starts on year 24000. In the base 24 hebrew encoding, the book itself begins by referencing Mexico from Portugal as the King of Peru sails west to Hawaii. The second line of text, the king makes his way to the land of the Tai Chi and Karate, where martial law enforces the vegan oath of the law of Elohim. This is where time gets counted, roughly 2,000 years since he discovered how to build a ship out of bricks made from vats of shit and helium, from line 1.  
+1. Start the node server with the command `node server.js` in your terminal, assuming you're in the project's root directory.
+2. Once the server is running, open a web browser and navigate to `http://localhost:3100/`
+3. You should now see the Elohim dates and a button download the iCal file.
 
-This encoding and translation was most likely kept secret because of Portuguese military non disclosure.  Although a bit obfuscated, the english translation states that it is illegal to eat animals and not allowed under the law of the universe which grants us life.  It is only by voluntary acts of animal consumption that by social compact of the Rainbow Covenant of Noah that the particular animal is livestock and allows themselves to be raped and molested under the dominion of Canaanite hereditary extending to the lord god, a politician, of Abraham onward.
-
+## Now includes node server to serve iCal
 ## Todo: 
     - quadrature segment 
-    - web component output
     - unit tests
     - build GUI calendar 
-    - ical integration
+
