@@ -33,9 +33,8 @@ week number and days of week begin on day 1, and end on day 10, however the mont
 
 To get the elohim date sent to your ical:
 
-1. Start the node server with the command `node server.js` in your terminal, assuming you're in the project's root directory.
-2. Once the server is running, open a web browser and navigate to `http://localhost:3100/`
-3. You should now see the Elohim dates and a button download the iCal file.
+1. From the project root, `npm install`, then run `node server.js` then go to  `http://localhost:3100/`
+2. You should now see the Elohim dates and a button download the iCal file.
 
 ## Now includes node server to serve iCal
 ## Todo: 
