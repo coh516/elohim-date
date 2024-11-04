@@ -1,10 +1,10 @@
-# elohim-date
-
 אם
 אני ממ
 ואלך מן הבן  
 ובן ונה נדן שגן
 how 0 can also be 1
+
+# elohim-date
 
 For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
 
