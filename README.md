@@ -1,4 +1,4 @@
-# into ta torah story how 0 can also be 1
+# into ta torah story of how 0 can also be 1
 
 -   אם
 -   אני ממ  
