@@ -1,7 +1,10 @@
 # elohim-date
 
-ואלך מן הבן
-וּבַן וּנָה נֵדָן שִׁגֵּן
+אם
+אני ממ
+ואלך מן הבן  
+ובן ונה נדן שגן
+how 0 can also be 1
 
 For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
 
@@ -11,7 +14,7 @@ Genesis 1:12 And the earth gave forth vegetation, seed yielding herbs according 
 
 Genesis 1:29 And God said, "Behold, I have given you every seed bearing herb, which is upon the surface of the entire earth, and every tree that has seed bearing fruit; it will be yours for food.
 
-Gensis 1:30 And to all the beasts of the earth and to all the fowl of the heavens, and to everything that moves upon the earth, in which there is a living spirit, every green herb to eat," and it was so.
+Genesis 1:30 And to all the beasts of the earth and to all the fowl of the heavens, and to everything that moves upon the earth, in which there is a living spirit, every green herb to eat," and it was so.
 
 Genesis 9:4 Any significant life that died is unclean for food. Therefore flesh with its soul, its blood, you shall not eat.
 
