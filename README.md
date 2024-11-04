@@ -1,4 +1,4 @@
-# into to torah story
+# into ta torah story
 
 אם
 אני ממ
