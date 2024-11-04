@@ -1,10 +1,9 @@
-# into ta torah story
+# into ta torah story how 0 can also be 1
 
-אם
-אני ממ
-ואלך מן הבן  
-ובן ונה נדן שגן
-how 0 can also be 1
+-   אם
+-   אני ממ
+    ואלך מן הבן  
+    ובן ונה נדן שגן
 
 # elohim-date
 
