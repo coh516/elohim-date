@@ -1,6 +1,7 @@
 # elohim-date
 
 ואלך מן הבן
+וּבַן וּנָה נֵדָן שִׁגֵּן
 
 For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
 
