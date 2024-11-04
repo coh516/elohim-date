@@ -4,8 +4,7 @@
 אני ממ
 ואלך מן הבן  
 ובן ונה נדן שגן
-
-# how 0 can also be 1
+how 0 can also be 1
 
 # elohim-date
 
