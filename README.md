@@ -9,7 +9,7 @@ The code prohibits consumption or usage of earth, eg: animal / insect / sea salt
     ואלך מן הבן  
     ובן ונה נדן שגן
 
-# elohim-date
+# Calendar
 
 Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
 
