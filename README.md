@@ -1,4 +1,4 @@
-# warning
+# WARNING
 
 The code prohibits consumption or usage of earth: animal / insect / sea salt / root vegetables / mushrooms / most fermentations and inorganic biologics and chemicals.
 
