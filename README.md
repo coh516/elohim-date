@@ -2,7 +2,7 @@
 
 The code prohibits consumption or usage of earth, eg: animal / insect / sea salt / root vegetables / mushrooms / most fermentations and inorganic biologics and chemicals.
 
-# The torah story cipher of how 0 turns into 1.
+# The torah cipher story of how 0 turns into 1.
 
 -   אם
 -   אני ממ  
