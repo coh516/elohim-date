@@ -1,4 +1,10 @@
-# into ta torah story of how 0 can also be 1
+# warning
+
+This clock is the root of all language. A preamble to the book of its time. It is strictly for those that fear God and uphold the vegan oath of Elohim. The code prohibits consumption or usage of earth as technology: animal / insect / sea salt / root vegetables / mushrooms / most fermentations.
+
+By reading the on to the next section it is understood that the previous conditions are met.
+
+# how to read torah. An intro to the cipher.
 
 -   אם
 -   אני ממ  
@@ -7,7 +13,7 @@
 
 # elohim-date
 
-For those that fear God and uphold the vegan oath of ELohim. Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
+Convert the date to Elohim date, with leap year and leap week every 4 years, with leap year and week at end of year (last week of year has 11 days)
 
 Genesis 1:11 And God said, "Let the earth sprout vegetation, seed yielding herbs and fruit trees producing fruit according to its kind in which its seed is found, on the earth," and it was so.
 
@@ -35,17 +41,7 @@ weeks are based on the approximation of 10 day weeks as segments of a 4 week mon
 
 week number and days of week begin on day 1, and end on day 10, however the month and day of month begins on day 0.
 
-## Serving Elohim Date from iCal
-
-To get the elohim date sent to your ical:
+## To load the elohim date app
 
 1. From the project root, `npm install`, then run `node server.js` then go to `http://localhost:3100/`
 2. You should now see the Elohim dates and a button download the iCal file.
-
-## Now includes node server to serve iCal
-
-## Todo:
-
-    - quadrature segment
-    - unit tests
-    - build GUI calendar
