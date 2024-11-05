@@ -2,7 +2,7 @@
 
 This clock is the root of all language. A preamble to the book of its time. It is strictly for those that fear God and uphold the vegan oath of Elohim. The code prohibits consumption or usage of earth as technology: animal / insect / sea salt / root vegetables / mushrooms / most fermentations.
 
-By reading the on to the next section it is understood that the previous conditions are met.
+By reading on to the next section it is understood that the previous conditions are met.
 
 # how to read torah. An intro to the cipher.
 
