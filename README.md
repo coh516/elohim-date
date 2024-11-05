@@ -1,6 +1,6 @@
 # WARNING
 
-The code prohibits consumption or usage of earth: animal / insect / sea salt / root vegetables / mushrooms / most fermentations and inorganic biologics and chemicals.
+The code prohibits consumption or usage of earth, eg: animal / insect / sea salt / root vegetables / mushrooms / most fermentations and inorganic biologics and chemicals.
 
 # How to read torah cipher. The story of how 0 turns into 1.
 
