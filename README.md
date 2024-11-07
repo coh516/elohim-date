@@ -32,6 +32,6 @@ Week number and days of week begin on day 1, and end on day 10, however the mont
 
 The year calculation has two components: the year beginning on January 15 and the year beginning on the month #7 (the 8'th month). The year is incremented civil since sufficient amount has passed by to say we are in this year.
 
-Hours are 10 hours. The first hour is 1:00 and the last hour is 11:00. Instead of turning into 11:01 it turns into 1:01. There is an oscillating millisecond leap year that takes place every 25 years. The first millisecond, time incremented both up and down at the same time.
+Hours are 10 hours. The first hour is 1:00 and the last hour is 11:00. Instead of turning into 11:01 it turns into 1:01. There is an oscillating millisecond leap year that takes place every 25 years. The first millisecond, time incremented both up and down at the same time. Since it is known that this pattern exists, it no longer exists and it will only increment now.
 
 -   לואמד
